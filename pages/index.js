@@ -1,8 +1,11 @@
+import Hero from "@/components/home-page/hero"
+
+
 function HomePage() {
     return (
-        <div>
-            Home Page
-        </div>
+        <>
+            <Hero/>
+        </>
     )
 }
 
