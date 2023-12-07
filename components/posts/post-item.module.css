@@ -15,8 +15,8 @@
 }
 
 .image img{
-    object-fit: cover;
-}
+    object-fit: center;
+} 
 
 .content{
     padding: var(--size-4);
